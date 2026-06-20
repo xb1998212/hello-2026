@@ -9,3 +9,8 @@
 ## 下一步计划
 - 尝试创建一个新文件夹，组织文件。
 - 学习 GitHub Issues 的基本用法。
+## 待办事项 / Todo List
+- [x] 创建 hello-2026 仓库
+- [x] 学会用 vscode.dev 编辑文件
+- [ ] 学习 GitHub Issues 的用法
+- [ ] 尝试给别人的项目提一个 PR
